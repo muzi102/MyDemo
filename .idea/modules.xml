@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluethoothDemo/BluethoothDemo.iml" filepath="$PROJECT_DIR$/BluethoothDemo/BluethoothDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bluetooth/Bluetooth.iml" filepath="$PROJECT_DIR$/Bluetooth/Bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bluetoothservicer/Bluetoothservicer.iml" filepath="$PROJECT_DIR$/Bluetoothservicer/Bluetoothservicer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiveDemo/LiveDemo.iml" filepath="$PROJECT_DIR$/LiveDemo/LiveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPlayer.iml" filepath="$PROJECT_DIR$/MyPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Player/Player.iml" filepath="$PROJECT_DIR$/Player/Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amaputildemo/amaputildemo.iml" filepath="$PROJECT_DIR$/amaputildemo/amaputildemo.iml" />
+      <module fileurl="file://D:\AndroidProject\MyPlayer\Player\app.iml" filepath="D:\AndroidProject\MyPlayer\Player\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esrdemo/esrdemo.iml" filepath="$PROJECT_DIR$/esrdemo/esrdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speakDemo/speakDemo.iml" filepath="$PROJECT_DIR$/speakDemo/speakDemo.iml" />
+      <module fileurl="file://D:\AndroidProject\MyPlayer\speakDemo\speechDemo.iml" filepath="D:\AndroidProject\MyPlayer\speakDemo\speechDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkerpatchdemo/tinkerpatchdemo.iml" filepath="$PROJECT_DIR$/tinkerpatchdemo/tinkerpatchdemo.iml" />
+    </modules>
+  </component>
+</project>

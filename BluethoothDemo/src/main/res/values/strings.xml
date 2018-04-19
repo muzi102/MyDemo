@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_recog_face">人脸识别</string>
+    <string name="btn_recog_id">身份证识别</string>
+    <string name="btn_recog_car">车牌识别</string>
+    <string name="btn_stop_navigate">停止定位</string>
+    <string name="no_name_devices">未命名设备</string>
+    <string name="no_mac_devices">未知 mac 地址</string>
+    <string name="match">已配对</string>
+    <string name="no_match">未配对</string>
+</resources>
