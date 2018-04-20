@@ -64,7 +64,8 @@ public class LiveSeekBar extends SeekBar {
     protected synchronized void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         drawLine(canvas);
-        //再绘制一遍Thumb，防止被覆盖掉
+        //再绘制一遍Thumb
+        //防止被覆盖掉
         drawThumb(canvas);
 
     }
