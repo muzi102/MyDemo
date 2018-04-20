@@ -67,7 +67,7 @@ public class LiveSeekBar extends SeekBar {
         //再绘制一遍Thumb
         //防止被覆盖掉
         drawThumb(canvas);
-
+        //我只是用来测试提交然后看log的
     }
 
     private void drawLine(Canvas canvas) {
