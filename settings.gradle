@@ -1,1 +1,1 @@
-include ':Player', ':LiveDemo', ':tinkerpatchdemo', ':esrdemo', ':BluethoothDemo', ':Bluetoothservicer', ':test', ':amaputildemo', 'Bluetooth', ':speakDemo'
+include ':Player', ':LiveDemo', ':tinkerpatchdemo', ':esrdemo', ':BluethoothDemo', ':Bluetoothservicer', ':test', ':amaputildemo', ':learnmvpdemo', 'Bluetooth', ':speakDemo'
